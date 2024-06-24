@@ -1,0 +1,14 @@
+{
+	"cache_domains": [
+		{
+			"name": "onedrive",
+			"description": "CDN for Microsoft OneDrive",
+			"domain_files": ["onedrive.txt"]
+		},
+		{
+			"name": "gdrive",
+			"description": "CDN for Google Drive",
+			"domain_files": ["gdrive.txt"]
+		}
+	]
+}
